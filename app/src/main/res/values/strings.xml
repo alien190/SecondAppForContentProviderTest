@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">SecondAppForContentProviderTest</string>
+    <string name="id_error">Ошибка Id</string>
+    <string name="complete">Complete</string>
+    <string name="error">Ошибка</string>
+
+    <string-array name="tables">
+        <item>Albums</item>
+        <item>Songs</item>
+        <item>AlbumSong</item>
+    </string-array>
+
+    <string-array name="request_types">
+        <item>query</item>
+        <item>insert</item>
+        <item>update</item>
+        <item>delete</item>
+    </string-array>
 </resources>
